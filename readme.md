@@ -1,2 +1,2 @@
-# econdor.github.io
+# econdoro.github.io
 repositorio de pagina web githun pagues
